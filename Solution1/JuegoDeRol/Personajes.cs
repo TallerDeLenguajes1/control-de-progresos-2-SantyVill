@@ -4,7 +4,11 @@ using System.Text;
 
 namespace JuegoDeRol
 {
-    class Personaje
+    public enum maximos
+    {
+        velocidad=10,destreza=5,fuerza=10,nivel=10,armadura=10
+    }
+    class Personajes
     {
         //==================Caracteristicas
         private int velocidad;
@@ -28,11 +32,13 @@ namespace JuegoDeRol
         public string Tipo { get => tipo; set => tipo = value; }
         public string Nombre { get => nombre; set => nombre = value; }
         public string Apodo { get => apodo; set => apodo = value; }
+        public DateTime FechaNacimiento { get => fechaNacimiento; set => fechaNacimiento = value; }
+        public int Salud { get => salud; set => salud = value; }
 
         int anios;
         public int edad()
         {
-            anios=Convert.ToInt32((fechaNacimiento-new DateTime()).ToString("yyy"));
+            anios=Convert.ToInt32((FechaNacimiento-new DateTime()).ToString("yyy"));
             return anios;
         }
     }

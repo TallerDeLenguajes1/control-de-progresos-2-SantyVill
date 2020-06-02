@@ -1,0 +1,13 @@
+C:\Repogit\control-de-progresos-2-SantyVill\Solution1\JuegoDeRol\bin\Debug\netcoreapp3.1\JuegoDeRol.exe
+C:\Repogit\control-de-progresos-2-SantyVill\Solution1\JuegoDeRol\bin\Debug\netcoreapp3.1\JuegoDeRol.deps.json
+C:\Repogit\control-de-progresos-2-SantyVill\Solution1\JuegoDeRol\bin\Debug\netcoreapp3.1\JuegoDeRol.runtimeconfig.json
+C:\Repogit\control-de-progresos-2-SantyVill\Solution1\JuegoDeRol\bin\Debug\netcoreapp3.1\JuegoDeRol.runtimeconfig.dev.json
+C:\Repogit\control-de-progresos-2-SantyVill\Solution1\JuegoDeRol\bin\Debug\netcoreapp3.1\JuegoDeRol.dll
+C:\Repogit\control-de-progresos-2-SantyVill\Solution1\JuegoDeRol\bin\Debug\netcoreapp3.1\JuegoDeRol.pdb
+C:\Repogit\control-de-progresos-2-SantyVill\Solution1\JuegoDeRol\obj\Debug\netcoreapp3.1\JuegoDeRol.csprojAssemblyReference.cache
+C:\Repogit\control-de-progresos-2-SantyVill\Solution1\JuegoDeRol\obj\Debug\netcoreapp3.1\JuegoDeRol.AssemblyInfoInputs.cache
+C:\Repogit\control-de-progresos-2-SantyVill\Solution1\JuegoDeRol\obj\Debug\netcoreapp3.1\JuegoDeRol.AssemblyInfo.cs
+C:\Repogit\control-de-progresos-2-SantyVill\Solution1\JuegoDeRol\obj\Debug\netcoreapp3.1\JuegoDeRol.csproj.CoreCompileInputs.cache
+C:\Repogit\control-de-progresos-2-SantyVill\Solution1\JuegoDeRol\obj\Debug\netcoreapp3.1\JuegoDeRol.dll
+C:\Repogit\control-de-progresos-2-SantyVill\Solution1\JuegoDeRol\obj\Debug\netcoreapp3.1\JuegoDeRol.pdb
+C:\Repogit\control-de-progresos-2-SantyVill\Solution1\JuegoDeRol\obj\Debug\netcoreapp3.1\JuegoDeRol.genruntimeconfig.cache
